@@ -11,4 +11,7 @@
 
 # Install
 
-- Import project into your IDE, add library files in API folder.
+- Import project into your IDE, add library files in API folder. 
+
+# Database
+- Import database.sql file in database folder.
